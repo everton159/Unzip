@@ -1,0 +1,83 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="Arquivo\standalone\Report\_Auditoria.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_EstatisticaColetas.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_EvolucaoResultados.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_RelatorioAtividades.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_RelatorioDuracaoOperacoes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_RelatorioEstruturado.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_RelatorioOperacional.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_ResumoAnalise.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_UtilizacaoCrivo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_UtilizacaoCrivoPorUsuario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_UtilizacaoFontes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Arquivo\standalone\Report\_UtilizacaoFontesPorUsuario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_Auditoria.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_EstatisticaColetas.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_EvolucaoResultados.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_RelatorioAtividades.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_RelatorioDuracaoOperacoes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_RelatorioEstruturado.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_RelatorioOperacional.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_ResumoAnalise.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_UtilizacaoCrivo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_UtilizacaoCrivoPorUsuario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_UtilizacaoFontes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="teste\standalone\Report\_UtilizacaoFontesPorUsuario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+C:\UNIZIP\obj\Debug\netcoreapp2.1\UNIZIP.csprojAssemblyReference.cache
+C:\UNIZIP\obj\Debug\netcoreapp2.1\UNIZIP.csproj.CoreCompileInputs.cache
+C:\UNIZIP\obj\Debug\netcoreapp2.1\UNIZIP.AssemblyInfoInputs.cache
+C:\UNIZIP\obj\Debug\netcoreapp2.1\UNIZIP.AssemblyInfo.cs
+C:\UNIZIP\bin\Debug\netcoreapp2.1\UNIZIP.deps.json
+C:\UNIZIP\bin\Debug\netcoreapp2.1\UNIZIP.runtimeconfig.json
+C:\UNIZIP\bin\Debug\netcoreapp2.1\UNIZIP.runtimeconfig.dev.json
+C:\UNIZIP\bin\Debug\netcoreapp2.1\UNIZIP.dll
+C:\UNIZIP\bin\Debug\netcoreapp2.1\UNIZIP.pdb
+C:\UNIZIP\obj\Debug\netcoreapp2.1\UNIZIP.dll
+C:\UNIZIP\obj\Debug\netcoreapp2.1\UNIZIP.pdb
