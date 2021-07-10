@@ -1,9 +1,9 @@
 # Unzip
 
 [ENG]
-Unzip files
+Small console application to Unzip files
 
 [PT-BR]
-Descompactador de arquivo
+Pequena aplicação console para descompactar arquivos
 
 
